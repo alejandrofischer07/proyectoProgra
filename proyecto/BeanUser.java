@@ -2,9 +2,9 @@ public class BeanUser {
 
     private int id;
     private String name;
-    
+
     public BeanUser() { }
-    
+
     public BeanUser(int id, String name) {
         this.id = id;
         this.name = name;
